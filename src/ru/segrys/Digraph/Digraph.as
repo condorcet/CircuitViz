@@ -1,4 +1,4 @@
-﻿package Digraph
+﻿package ru.segrys.Digraph
 {
 	import org.as3commons.collections.ArrayList;
 	
