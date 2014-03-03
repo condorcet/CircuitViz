@@ -1,7 +1,7 @@
-﻿package Digraph
+﻿package ru.segrys.Digraph
 {
 	import org.as3commons.collections.ArrayList;
-	import Model.Output;
+	import ru.segrys.Model.Output;
 	public class Vertex
 	{
 		public function Vertex()
